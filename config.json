@@ -1,7 +1,7 @@
 {
     "prefix": "!",
-    "token": "ODc4Mjc0MDc4ODM2OTQwODQx.YR-yeQ.CetDMC6b3ziXWPdPgXzynnOU2yc",
-    "google": "AIzaSyBy_04As4Qr-JrB-jCBxk_pxlFNMxgfR6Q",
+    "token": "",// put your discord token here
+    "google": "",// put your google token here
     "YTDL": {
         "filter": "audioonly"
     }
